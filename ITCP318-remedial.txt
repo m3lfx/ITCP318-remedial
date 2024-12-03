@@ -1,38 +1,33 @@
 Finish the functions to obtain a grade of 3.0. Present 
 the project on Thursday December 5 2024 8.00am - 12noon only. 
 
-TUPT-22-0480	
-TUPT-22-0647	
- (product CRUD, transaction, product review, any two quizzes, unit 1)
+TUPT-22-0480 TUPT-22-0647	
+(transaction with update, mp1, mp2, mp3, any two quizzes, unit 1)
 
-TUPT-22-0659	
-TUPT-22-0642	
+TUPT-22-0659 TUPT-22-0642	
 (mp1, mp2, mp3)
 
-TUPT-21-0044	
-TUPT-22-0705	
-(transaction with email or update, mp1, mp2, mp3, any two quizzes, unit 1)
+TUPT-21-0044 TUPT-22-0705	
+(transaction with update, mp1, mp2, mp3, any two quizzes, unit 1)
 
-TUPT-22-0653	
-TUPT-22-0322	
+TUPT-22-0653 TUPT-22-0322	
 (mp1, mp2, mp3, update transaction, any two quizzes, unit 1)
 
-TUPT-22-0645	
-TUPT-22-0488	
+TUPT-22-0645 TUPT-22-0488	
 (mp2, mp3)
 
-TUPT-22-0489	
-TUPT-21-0027	
-(transaction with email/update, mp1, mp2, mp3, any two quizzes, unit 1)
+TUPT-22-0489 TUPT-21-0027	
+(transaction with update, mp1, mp2, mp3, any two quizzes, unit 1)
 
-TUPT-22-0711	
-TUPT-22-0483	
+TUPT-22-0711 TUPT-22-0483	
 (mp2, mp3)
 
-TUPT-22-0734	
-TUPT-22-0746	
+TUPT-22-0734 TUPT-22-0746	
 (mp3, update transaction, any two quizzes)
 
-TUPT-21-0636	
-TUPT-22-0730	
+TUPT-21-0636 TUPT-22-0730	
 (mp3, update transaction)
+
+TUPT-21-0004 TUPT-21-0008	
+(transaction with update, mp1, mp2, mp3, any two quizzes, unit 1)
+
